@@ -1,4 +1,4 @@
-### Hi there 👋, my name Jagadish Chakma
+### Hi there, my name Jagadish Chakma
 #### An Enthusiastic Web Developer
 ![An Enthusiastic Web Developer](https://media.licdn.com/dms/image/v2/D5616AQF58GFsNh0E6A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1729143003262?e=1734566400&v=beta&t=-CPctdjtKXxpFUxQoShkbYkCioMkIx8KORMNg4Av5hw)
 
