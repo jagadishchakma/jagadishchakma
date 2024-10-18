@@ -8,7 +8,11 @@ I do website design, web app development, create rest API using Python Django Re
 
 Any possible business or institution problems, or ideas I help to convert into web solutions. I can contribute by removing repeated code, writing clean and understandable code, following standard code, and avoiding security-less code.
 
-Skills: JavaScript / Python
+### Technologies I Use
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/python.svg" alt="Python" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/javascript.svg" alt="JavaScript" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/react.svg" alt="React" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/django.svg" alt="Django" width="40" height="40"/>
 
 - 🔭 I’m currently working on web development, programming. 
 - 🌱 I’m currently learning Advanced JavaScript, Python. 
