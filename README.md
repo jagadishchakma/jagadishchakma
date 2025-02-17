@@ -1,6 +1,6 @@
 ### Hi there, my name Jagadish Chakma
 #### An Enthusiastic Web Developer
-![An Enthusiastic Web Developer]([https://drive.google.com/file/d/16EugSLaS47W4Zw-RcDjFJ0t8EwHQHpPH/view?usp=sharing](https://ibb.co.com/vxbN50sX))
+![An Enthusiastic Web Developer](https://jagadish.tfbfoundation.org/assets/profile2-DuhZWd1m.png)
 
 Hi! My name is Jagadish Chakma. I'm a **Web Developer**. I graduated in 2023 from National University and my subject is **Accounting**. Nowadays, working as a Web Developer. Working on Python, Django, and JavaScript tech fields.  Even if my background is in a non-tech field I am passionate about working in the Computer science technical field.
 
